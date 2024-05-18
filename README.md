@@ -1,4 +1,4 @@
-# Mental Health Application
+# Mental-Health Application
 ![WhatsApp Image 2024-05-19 at 00 04 41_cb169b70](https://github.com/vvinayakkk/Mental-Health-Wellcare/assets/140016882/5c4fd964-059c-4e10-90ab-d57aa2656247)
 
 ![WhatsApp Image 2024-05-18 at 21 20 48_dbb9f600](https://github.com/vvinayakkk/Mental-Health-Wellcare/assets/140016882/73c5a044-ec0f-4a34-92da-3b700a47d952)
